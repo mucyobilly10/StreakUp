@@ -35,7 +35,8 @@ StreakUp is a Windows desktop application that helps users build good routines b
 
 
 ### 🏠 Main Dashboard
-<img width="830" height="463" alt="DashboardPage" src="https://github.com/user-attachments/assets/b22b5751-e110-481e-a842-79765aeee7f8" />
+
+<img width="840" height="467" alt="dashboard2" src="https://github.com/user-attachments/assets/62d57a1f-946f-4a4e-abb2-392d07f7bd53" />
 
 
 ### 📈 Streaks and Weekly Progress
